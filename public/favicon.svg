@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Distillery">
+  <defs>
+    <linearGradient id="d" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3d2914"/>
+      <stop offset="100%" stop-color="#1a0f08"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="7" fill="url(#d)"/>
+  <ellipse cx="16" cy="22" rx="9" ry="6" fill="#6b4423" opacity="0.9"/>
+  <rect x="11" y="8" width="10" height="14" rx="1" fill="#c9a063"/>
+  <rect x="13" y="5" width="6" height="4" rx="1" fill="#8b7355"/>
+  <path d="M14 10h4M14 13h4M14 16h3" stroke="#5c3d1e" stroke-width="0.8" stroke-linecap="round"/>
+  <circle cx="22" cy="12" r="2" fill="#d4a574" opacity="0.95"/>
+</svg>
